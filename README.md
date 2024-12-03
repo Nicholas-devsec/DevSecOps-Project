@@ -9,6 +9,7 @@ The project features:
 - **SAST (SonarQube)** for static analysis of the code.
 - **SCA (Trivy)** to check for vulnerabilities in dependencies.
 - **DAST (OWASP ZAP)** for dynamic application security testing during runtime.
+- **Docker Engine**: to containerize the application, making it easy to deploy
 
 
 ## Steps of my Simple Pipeline
