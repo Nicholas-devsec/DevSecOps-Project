@@ -4,7 +4,7 @@
 ![Application Source Code](images/application_source.png)
 
 ### Running SAST
-![Running SAST](images/running-scan.png)
+![Running SAST](images/running-scan.jpg)
 
 ### SAST Login
 ![SAST Login](images/sast-login.png)
