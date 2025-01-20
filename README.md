@@ -1,4 +1,4 @@
-# My First DevSecOps Pipeline
+# My First DevSecOps Project
 
 This project demonstrates a simple DevSecOps pipeline using a vulnerable web application. The pipeline integrates multiple security tools to help identify vulnerabilities in different stages of development. It includes Static Application Security Testing (SAST), Software Composition Analysis (SCA), and Dynamic Application Security Testing (DAST), all of which are critical in ensuring the security of modern applications.
 
